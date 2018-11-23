@@ -5,7 +5,7 @@ To do this, run:
 
 ```bash
 # create the nodejs example as usual
-oc new-app https://github.com/sclorg/nodejs-ex
+oc new-app https://github.com/alexbarbosa1989/nodejs-ex/
 
 # now create the pipeline build controller from the openshift/pipeline
 # subdirectory
