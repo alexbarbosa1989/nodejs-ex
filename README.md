@@ -11,4 +11,4 @@ oc new-app https://github.com/sclorg/nodejs-ex.git
 oc new-app https://github.com/alexbarbosa1989/nodejs-ex.git --context-dir=openshift/pipeline --name nodejs-ex-pipeline
 
 
-_This step creates an ephemeral jenkins builconfing and deploy a jenkins pod inside the project
+__This step creates an ephemeral jenkins builconfing and deploy a jenkins pod inside the project
