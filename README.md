@@ -1,4 +1,5 @@
-# nodejs-ex demo. Just for academical purposes
+nodejs-ex demo. Just for academical purposes
+
 This directory contains a Jenkinsfile which can be used to build nodejs-ex using an OpenShift build pipeline.
 
 To do this, run:
