@@ -13,4 +13,4 @@ To do this, run:
 > oc new-app https://github.com/alexbarbosa1989/nodejs-ex.git --context-dir=openshift/pipeline --name nodejs-ex-pipeline
  
 
-(Last step creates an ephemeral jenkins builconfing and deploy a jenkins pod inside the project)
+(Last step creates a jenkins builconfing and deploy an ephemeral jenkins pod inside the project)
